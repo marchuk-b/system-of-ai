@@ -1,0 +1,38 @@
+{
+  "nodes": {
+    "1": [120, 300],
+    "2": [260, 180],
+    "3": [260, 420],
+    "4": [420, 120],
+    "5": [420, 300],
+    "6": [420, 480],
+    "7": [580, 120],
+    "8": [580, 300],
+    "9": [580, 480],
+    "10": [740, 180],
+    "11": [740, 420],
+    "12": [900, 300]
+  },
+  "edges": [
+    {"u": 1, "v": 2, "tree": true, "arc": true},
+    {"u": 1, "v": 3, "tree": true, "arc": true},
+    {"u": 2, "v": 4, "tree": true, "arc": true},
+    {"u": 2, "v": 5, "tree": true, "arc": true},
+    {"u": 3, "v": 5, "tree": true, "arc": true},
+    {"u": 3, "v": 6, "tree": true, "arc": true},
+    {"u": 4, "v": 7, "tree": true, "arc": true},
+    {"u": 5, "v": 8, "tree": true, "arc": true},
+    {"u": 6, "v": 9, "tree": true, "arc": true},
+    {"u": 7, "v": 10, "tree": true, "arc": true},
+    {"u": 8, "v": 10, "tree": true, "arc": true},
+    {"u": 8, "v": 11, "tree": true, "arc": true},
+    {"u": 9, "v": 11, "tree": true, "arc": true},
+    {"u": 10, "v": 12, "tree": true, "arc": true},
+    {"u": 11, "v": 12, "tree": true, "arc": true},
+    {"u": 5, "v": 2, "tree": false, "arc": true},
+    {"u": 6, "v": 3, "tree": false, "arc": true},
+    {"u": 10, "v": 8, "tree": false, "arc": true},
+    {"u": 11, "v": 9, "tree": false, "arc": true},
+    {"u": 12, "v": 5, "tree": false, "arc": true}
+  ]
+}

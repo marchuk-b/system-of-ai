@@ -1,0 +1,2 @@
+﻿found,path,path_length,cycles,expanded,visited,time_ms,graph_type,order,start,goal,vertices,edges
+так,1 -> 16 -> 17 -> 18 -> 19,4,29,29,32,1.199,graph,asc,1,19,32,41
