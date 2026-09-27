@@ -1,0 +1,2 @@
+﻿found,path,path_length,cycles,expanded,visited,time_ms,graph_type,search_method,order,start,goal,vertices,edges
+так,1 -> 16 -> 17 -> 18 -> 19,4,20,20,23,0.409,tree,dfs,asc,1,19,32,31
