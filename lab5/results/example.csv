@@ -1,0 +1,2 @@
+﻿found,path,distance_km,path_edges,cycles,expanded,relaxations,time_ms,graph_type,start,goal,vertices,edges
+так,Луцьк -> Рівне -> Житомир -> Київ -> Полтава -> Харків,884,5,20,20,25,0.228,graph,Луцьк,Харків,29,50
